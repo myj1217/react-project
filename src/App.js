@@ -3,8 +3,6 @@ import CountButton from "./components/CountButton";
 import Number from "./components/Number";
 import styled from "styled-components";
 
-(생략)
-
 class App extends Component {
   state = {
     number: 0
